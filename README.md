@@ -10,9 +10,11 @@ It connects to your local network via Wi-Fi, pulls **BTC price** + your **total 
 
 ---
 
-## 📸 Photo
+## 📸 Photos
 
-![Freedom Clock showcase](photos/freedomclock_showcase.jpeg)
+![Freedom Clock showcase - Low time](photos/freedomclock_showcase_low_time.jpeg)
+
+![Freedom Clock showcase - high time](photos/freedomclock_showcase_high_time.jpeg)
 
 ---
 
